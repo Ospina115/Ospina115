@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Soy Samuel Ospina<br>🇨🇴 Colombiano<br>📚 Tecnologo en desarrollo de sistemas informáticos<br>🔰 Estudiante de las Unidades Tecnologicas de Santander.<br>🚀 Estudiante de Campuslands - Bucaramanga
+👋 Soy Samuel Ospina<br>📍 Colombiano<br>📚 Tecnologo en desarrollo de sistemas informáticos<br>🔰 Estudiante de las Unidades Tecnologicas de Santander.<br>🚀 Estudiante de Campuslands - Bucaramanga
 
 
 ## 🌐 Socials:
