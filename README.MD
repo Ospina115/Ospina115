@@ -4,7 +4,7 @@
 <hr>
 
 # 💫 About Me:
-🤓 Apasionado a la computacion<br>📍 Colombiano<br>📚 Tecnologo en desarrollo de sistemas informáticos<br>🔰 Estudiante de las Unidades Tecnologicas de Santander.<br>🚀 Estudiante de Campuslands - Bucaramanga
+🤓 Apasionado a la computacion<br>📍 Colombiano<br>📚 Tecnologo en desarrollo de sistemas informáticos<br>🔰 Estudiante de las Unidades Tecnologicas de Santander.
 
 
 ## 🌐 Socials:
