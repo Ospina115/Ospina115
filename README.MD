@@ -5,7 +5,7 @@
 <hr>
 
 # 💫 About Me:
-🤓 Apasionado a la computacion<br>📍 Colombiano<br>📚 Tecnologo en desarrollo de sistemas informáticos<br>🔰 Estudiante de las Unidades Tecnologicas de Santander.<br>🤖 Especialista en RPA en Cajasan
+🤓 Apasionado a la computacion<br>📍 Colombiano<br>📚 Tecnologo en desarrollo de sistemas informáticos<br>🔰 Estudiante de las Unidades Tecnologicas de Santander.<br>🤖 Especialista en RPA en Cajasan<br>⌨ Tecnico laboral en desarrollo de software en Campuslands
 
 
 ## 🌐 Socials:
